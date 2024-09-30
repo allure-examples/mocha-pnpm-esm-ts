@@ -1,0 +1,1 @@
+{"ffcfa2a4b3b8fb8089f783e1a6b1cc3e:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"76ba3423c19e87e3","reportUrl":"https://allure-examples.github.io/mocha-pnpm-esm-ts/3//#testresult/76ba3423c19e87e3","status":"passed","time":{"start":1727699763112,"stop":1727699763116,"duration":4}}]}}
